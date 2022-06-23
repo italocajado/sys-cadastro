@@ -3,6 +3,6 @@
 >Status: em desenvolvimento
 para rodar o projeto
 
-'''
+```
 node app.js
-'''
+```
