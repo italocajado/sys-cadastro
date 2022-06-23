@@ -2,6 +2,7 @@
 
 >Status: em desenvolvimento
 para rodar o projeto
-...
-nmp install react
-...
+
+'''
+node app.js
+'''
